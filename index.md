@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# 110學年度一年級段考R語言輸出結果
 
-You can use the [editor on GitHub](https://github.com/tjjh/110RT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 以下為程式測試練習結果，僅供參考，不代表任何立場，請自行判讀。開啟`(圖多慎入!!!)`網頁連結時，因圖檔多檔案大，請務必耐心等候，謝謝。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [C、第二次段考進退步R語言輸出結果](https://tjjh.github.io/110RT/R110-1.a01.a02.for.loop-ggplotly.RMD.html) `(圖多慎入!!!)`
+### [B、第二次段考R語言輸出結果](https://tjjh.github.io/110RT/R110-1.a02-ggplotly.RMD.html)
+### [A、第一次段考R語言輸出結果](https://tjjh.github.io/110RT/R110-1.a01-ggplotly.RMD)
 
-### Markdown
+### 箱形圖說明
+<img src="https://tjjh.github.io/110RT/001.png">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://tjjh.github.io/110RT/002.png">
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tjjh/110RT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 過山龍製 2021.12.29
